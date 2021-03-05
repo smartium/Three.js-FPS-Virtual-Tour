@@ -1,0 +1,17 @@
+html, body {
+  margin:0;
+  overflow:hidden;
+}
+
+.controls {
+  position: fixed;
+  font-family: 'Courier New', Courier, monospace;
+  top: 20px;
+  left: 20px;
+  color: blanchedalmond;
+  font-size: large;
+}
+
+.controls code {
+  color: red;
+}
